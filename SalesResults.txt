@@ -1,0 +1,5 @@
+
+===== SALES SUMMARY =====
+Total Sales: $35.00
+Execution Time: 0.000258 seconds
+=========================
